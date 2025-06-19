@@ -1,0 +1,14 @@
+You: hello
+Bot: hello, how can i help you?
+You: can you tell me the name of any animal ?
+Bot: no problem, can you tell me the name of any animal?
+You: cat
+Bot: no problem, can you tell me the name of any animal?
+You: hello
+Bot: hello, how can i help you?
+You: what is the capital of india ?
+Bot: the capital of india is mumbai
+You: can you tell me tha name of any animal ?
+Bot: no, i can only tell you the name of the animal.
+You: what is the name of president of india ?
+Bot: the name of the president of india is narendra modi
